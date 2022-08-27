@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/Adventurechen/atlas"><img src="[EwxVoP5W8Ac4cVV.jpg](https://github.com/Adventurechen/atlas/blob/main/EwxVoP5W8Ac4cVV.jpg "EwxVoP5W8Ac4cVV.jpg")" alt="AtlasDiscordBot"></a>
+  <a href="https://github.com/Adventurechen/atlas"><img src="https://github.com/Adventurechen/atlas/main/EwxVoP5W8Ac4cVV.jpg)" alt="AtlasDiscordBot"></a>
   <br>
   Atlas | Discord-Bot
   <br>
