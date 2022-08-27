@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://discord.gg/2hURuYt9KS">
-    <img src="https://discordapp.com/api/guilds/133049272517001216/widget.png?style=shield" alt="Discord Server">
+    <img src="https://discordapp.com/api/guilds/1000837123353612318/widget.png?style=shield" alt="Discord Server">
   </a>
 <!--  <a href="https://pypi.org/project/Red-DiscordBot/">
      <img alt="PyPI" src="https://img.shields.io/pypi/v/Red-Discordbot">
